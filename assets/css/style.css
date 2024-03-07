@@ -171,6 +171,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer .made-by {
     font-size: 20px;
+    font-weight: bold;
 }
